@@ -1,0 +1,9 @@
+Name: SchoolsOfThought
+Version: 0.0.1
+Dependencies:
+- Name: Quintessential
+  Version: 0.6.0
+- Name: Brimstone
+  Version: 2.1.0
+- Name: UncommonPrimes
+  Version: 0.1.3
